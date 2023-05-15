@@ -1,0 +1,34 @@
+body{
+    background-color:black;
+    color:white;
+}
+span{
+    float: left;
+    margin: 10px;
+}
+h3{
+    margin-top: 12px;
+}
+img{
+    width: 150px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#ab{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+#ab1{
+    margin-left: 60px;
+}
+.navbarbg{
+    background-color: black;
+}
+.search{
+    display: none;
+}
